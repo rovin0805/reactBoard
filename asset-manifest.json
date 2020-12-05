@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/reactBoard/static/js/main.661619f9.chunk.js",
+    "main.js.map": "/reactBoard/static/js/main.661619f9.chunk.js.map",
+    "runtime-main.js": "/reactBoard/static/js/runtime-main.4b13d29d.js",
+    "runtime-main.js.map": "/reactBoard/static/js/runtime-main.4b13d29d.js.map",
+    "static/js/2.6152e6ec.chunk.js": "/reactBoard/static/js/2.6152e6ec.chunk.js",
+    "static/js/2.6152e6ec.chunk.js.map": "/reactBoard/static/js/2.6152e6ec.chunk.js.map",
+    "index.html": "/reactBoard/index.html",
+    "precache-manifest.7e9c3a91206ee732be5cfa2d62eadd7b.js": "/reactBoard/precache-manifest.7e9c3a91206ee732be5cfa2d62eadd7b.js",
+    "service-worker.js": "/reactBoard/service-worker.js",
+    "static/js/2.6152e6ec.chunk.js.LICENSE.txt": "/reactBoard/static/js/2.6152e6ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b13d29d.js",
+    "static/js/2.6152e6ec.chunk.js",
+    "static/js/main.661619f9.chunk.js"
+  ]
+}
